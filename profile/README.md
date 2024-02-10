@@ -10,7 +10,7 @@ The current state of eye care in the world is broken - doctors, equipment, and a
 
 Check out our website (https://openvision.framer.website/) for our roadmap of projects!
 
-**Current projects**
+## Current projects
 - DeepRet Model: multi-task glaucoma diagnosis model
 - OpthoAssitant: ophthamology fine-tuned LLM for accessible medical information
 - DeepRet Imager: low-cost, portable, and intelligent retinal fundus imager (RFI)
