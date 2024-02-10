@@ -8,7 +8,13 @@ The OpenVision Project is an ambitious roadmap of open-source projects dipping i
 
 The current state of eye care in the world is broken - doctors, equipment, and awareness are not distributed equally, leading to needless human suffering. Our aim is to develop and open-source technologically innovative and accessible diagnostic solutions to prevent blindness at an impactful scale.
 
-Check out our website (https://openvision.framer.website/) for the up-to-date roadmap of projects.
+Check out our website (https://openvision.framer.website/) for our roadmap of projects!
+
+**Current projects**
+- DeepRet Model: multi-task glaucoma diagnosis model
+- OpthoAssitant: ophthamology fine-tuned LLM for accessible medical information
+- DeepRet Imager: low-cost, portable, and intelligent retinal fundus imager (RFI)
+- OpenVision App: coming to the android app store!
 
 
 <!--
