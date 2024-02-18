@@ -16,6 +16,8 @@ Check out our website (https://openvision.framer.website/) for our roadmap of pr
 - DeepRet Imager: low-cost, portable, and intelligent retinal fundus imager (RFI)
 - OpenVision App: coming to the android app store!
 
+![image](https://github.com/TheOpenVisionProject/.github/assets/96749303/3b0bd3d8-6f96-448c-aca6-b4f5e79f21e8)
+
 
 <!--
 
